@@ -1,0 +1,10 @@
+{
+  "name": "PHP 8.5 UAF Bypass",
+  "main": "index.js",
+  "version": "1.0",
+  "description": "Utilizes PHP 8.5 unserialize var_hash UAF to bypass disable_functions and execute commands",
+  "author": "Security Researcher",
+  "category": "辅助工具",
+  "multiple": false,
+  "scripts": ["php"]
+}
